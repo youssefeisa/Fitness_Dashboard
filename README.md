@@ -36,3 +36,6 @@ We need a **detailed profile page** for each member/client containing:
 - 📝 **Personal Information** → Name, Age, Gender, Contact, Address
 - 🎟️ **Membership Details** → Tier, Start Date, Expiry Date, Status
 - 📂 **Additional Info** (as needed)
+
+### You can see the dashboard on the link
+https://app.powerbi.com/links/Wjrq4YCyF5?ctid=dee1ed73-19ca-4ce0-8066-8261fbabbeaa&pbi_source=linkShare
